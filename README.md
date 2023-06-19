@@ -5,7 +5,6 @@ I'm Selim, a Back-end developer from Turkey.
 
 * I'm based in Turkey
 * You can contact me at [selimkkkaraca@hotmail.com](mailto:selimkkkaraca@hotmail.com)
-* I'm learning Spring boot
 
 
 
